@@ -1,0 +1,15 @@
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\bin\Debug\net6.0\Demo ForLoops.exe
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\bin\Debug\net6.0\Demo ForLoops.deps.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\bin\Debug\net6.0\Demo ForLoops.runtimeconfig.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\bin\Debug\net6.0\Demo ForLoops.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\bin\Debug\net6.0\Demo ForLoops.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.csproj.AssemblyReference.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.AssemblyInfoInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.AssemblyInfo.cs
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.csproj.CoreCompileInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\refint\Demo ForLoops.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\Demo ForLoops.genruntimeconfig.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo ForLoops\obj\Debug\net6.0\ref\Demo ForLoops.dll

@@ -1,0 +1,15 @@
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\bin\Debug\net6.0\Demo Lists.exe
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\bin\Debug\net6.0\Demo Lists.deps.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\bin\Debug\net6.0\Demo Lists.runtimeconfig.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\bin\Debug\net6.0\Demo Lists.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\bin\Debug\net6.0\Demo Lists.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.csproj.AssemblyReference.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.AssemblyInfoInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.AssemblyInfo.cs
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.csproj.CoreCompileInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\refint\Demo Lists.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\Demo Lists.genruntimeconfig.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Lists\obj\Debug\net6.0\ref\Demo Lists.dll

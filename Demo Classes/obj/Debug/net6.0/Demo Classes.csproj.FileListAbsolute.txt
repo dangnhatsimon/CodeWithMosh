@@ -1,0 +1,15 @@
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\bin\Debug\net6.0\Demo Classes.exe
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\bin\Debug\net6.0\Demo Classes.deps.json
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\bin\Debug\net6.0\Demo Classes.runtimeconfig.json
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\bin\Debug\net6.0\Demo Classes.dll
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\bin\Debug\net6.0\Demo Classes.pdb
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.csproj.AssemblyReference.cache
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.AssemblyInfoInputs.cache
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.AssemblyInfo.cs
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.csproj.CoreCompileInputs.cache
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.dll
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\refint\Demo Classes.dll
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.pdb
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\Demo Classes.genruntimeconfig.cache
+D:\C#\PECC2\CSharp-WPF\CSharp-WPF_Section-01\Demo Classes\obj\Debug\net6.0\ref\Demo Classes.dll

@@ -1,0 +1,15 @@
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.csproj.AssemblyReference.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.AssemblyInfoInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.AssemblyInfo.cs
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.csproj.CoreCompileInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\bin\Debug\net6.0\Demo Reference and Value Types.exe
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\bin\Debug\net6.0\Demo Reference and Value Types.deps.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\bin\Debug\net6.0\Demo Reference and Value Types.runtimeconfig.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\bin\Debug\net6.0\Demo Reference and Value Types.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\bin\Debug\net6.0\Demo Reference and Value Types.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\refint\Demo Reference and Value Types.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\Demo Reference and Value Types.genruntimeconfig.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Demo Reference and Value Types\obj\Debug\net6.0\ref\Demo Reference and Value Types.dll

@@ -1,0 +1,15 @@
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\bin\Debug\net6.0\Date.exe
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\bin\Debug\net6.0\Date.deps.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\bin\Debug\net6.0\Date.runtimeconfig.json
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\bin\Debug\net6.0\Date.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\bin\Debug\net6.0\Date.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.csproj.AssemblyReference.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.AssemblyInfoInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.AssemblyInfo.cs
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.csproj.CoreCompileInputs.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\refint\Date.dll
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.pdb
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\Date.genruntimeconfig.cache
+D:\C#\CodeWithMosh-Example\CodeWithMosh\Date\obj\Debug\net6.0\ref\Date.dll
